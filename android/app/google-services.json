@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "493854551470",
+    "project_id": "yemekolikapp",
+    "storage_bucket": "yemekolikapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493854551470:android:4bce32bf61f59809656c3f",
+        "android_client_info": {
+          "package_name": "com.example.yemekolik_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1NUBHSlAA9C_1ZdWoCQ3kIIi6vLKmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493854551470:android:064000724c8ca704656c3f",
+        "android_client_info": {
+          "package_name": "com.oguzhan.yemekolik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1NUBHSlAA9C_1ZdWoCQ3kIIi6vLKmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
